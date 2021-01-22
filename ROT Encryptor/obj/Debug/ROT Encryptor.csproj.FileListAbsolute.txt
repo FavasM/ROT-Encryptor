@@ -1,0 +1,15 @@
+C:\Users\favas\source\repos\ROT Encryptor\ROT Encryptor\bin\Debug\ROT Encryptor.exe.config
+C:\Users\favas\source\repos\ROT Encryptor\ROT Encryptor\bin\Debug\ROT Encryptor.exe
+C:\Users\favas\source\repos\ROT Encryptor\ROT Encryptor\bin\Debug\ROT Encryptor.pdb
+C:\Users\favas\source\repos\ROT Encryptor\ROT Encryptor\obj\Debug\ROT Encryptor.csprojAssemblyReference.cache
+C:\Users\favas\source\repos\ROT Encryptor\ROT Encryptor\obj\Debug\ROT_Encryptor.Properties.Resources.resources
+C:\Users\favas\source\repos\ROT Encryptor\ROT Encryptor\obj\Debug\ROT Encryptor.csproj.GenerateResource.cache
+C:\Users\favas\source\repos\ROT Encryptor\ROT Encryptor\obj\Debug\ROT Encryptor.csproj.CoreCompileInputs.cache
+C:\Users\favas\source\repos\ROT Encryptor\ROT Encryptor\obj\Debug\ROT Encryptor.exe
+C:\Users\favas\source\repos\ROT Encryptor\ROT Encryptor\obj\Debug\ROT Encryptor.pdb
+C:\Users\favas\source\repos\ROT Encryptor\ROT Encryptor\obj\Debug\ROT_Encryptor.mainUI.resources
+C:\Users\favas\source\repos\ROT Encryptor\ROT Encryptor\bin\Debug\ROT Encryptor.exe.manifest
+C:\Users\favas\source\repos\ROT Encryptor\ROT Encryptor\bin\Debug\ROT Encryptor.application
+C:\Users\favas\source\repos\ROT Encryptor\ROT Encryptor\obj\Debug\ROT Encryptor.TrustInfo.xml
+C:\Users\favas\source\repos\ROT Encryptor\ROT Encryptor\obj\Debug\ROT Encryptor.exe.manifest
+C:\Users\favas\source\repos\ROT Encryptor\ROT Encryptor\obj\Debug\ROT Encryptor.application
